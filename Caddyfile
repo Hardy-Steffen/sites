@@ -1,12 +1,12 @@
 gaw.ds.ajhs.li {
-    root * /data/gaw
+    root * /data/sites/gaw
     file_server browse
 }
 ogp.ds.ajhs.li {
-    root * /data/ogp
+    root * /data/sites/ogp
     file_server browse
 }
 ogpo.ds.ajhs.li {
-    root * /data/ogpo
+    root * /data/sites/ogpo
     file_server browse
 }
